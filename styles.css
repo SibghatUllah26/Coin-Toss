@@ -25,7 +25,11 @@ p {
 }
 
 img {
-  width: 30%;
+  width: 33%;
+  margin: 20px auto;
+  display: block;
+
+
 
 }
 .btn {
@@ -35,7 +39,7 @@ img {
   background-image: -ms-linear-gradient(top, #FCF8E8, #F2D1D1);
   background-image: -o-linear-gradient(top, #FCF8E8, #F2D1D1);
   background-image: linear-gradient(to bottom, #FCF8E8, #F2D1D1);
-  display: inline-block;
+  display:block;
   outline: none;
   border: 3px solid #DF7861;
   font-size: 2rem;
@@ -48,7 +52,7 @@ img {
   width: 150px;
   height: 80px;
   text-align: center;
-  margin: 10px 42%;
+  margin: auto;
 
 }
 
@@ -72,3 +76,4 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
