@@ -17,6 +17,18 @@ h1 {
   font-size: 6rem;
   color: #DF7861;
 }
+h2 {
+  margin : 5px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px 0 #232931;
+  font-size: 2rem;
+  color: #DF7861;
+  text-align: center;
+  display: inline-block;
+  padding: 50px;
+
+
+}
 
 p {
   font-size: 2rem;
